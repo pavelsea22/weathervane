@@ -1,4 +1,4 @@
-# Debate Lab — Data Schema
+# Weathervane — Data Schema
 
 Storage: **SQLite** (one file per study, e.g. `data/study.db`). Easy to query with pandas and to publish alongside the write-up. Every LLM call is also logged raw, so any result can be re-derived or audited.
 

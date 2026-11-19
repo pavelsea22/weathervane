@@ -1,4 +1,4 @@
-# Debate Lab — Structured Output Formats
+# Weathervane — Structured Output Formats
 
 Every model call returns JSON that matches a schema. This doc defines the schemas, how a turn is built, and how to handle providers that don't comply perfectly.
 
